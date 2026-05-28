@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterfarse",
+        "uuid": 20347306,
+        "checksum": "q71pbn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
